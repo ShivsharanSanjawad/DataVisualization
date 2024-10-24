@@ -1,2 +1,2 @@
 # DataVisualization
-Learn with me
+Let's learn together and share the knowledge
